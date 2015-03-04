@@ -1209,6 +1209,7 @@
 
 		.spotlight.style1 .content {
 			border-color: #e44c65;
+			border: 0px;
 		}
 
 		.spotlight.style2 .content {
